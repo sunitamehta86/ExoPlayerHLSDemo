@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="dialog_width">480dp</dimen>
+
+    <dimen name="margin_5">9dp</dimen>
+    <dimen name="margin_6">10dp</dimen>
+    <dimen name="margin_8">12dp</dimen>
+    <dimen name="margin_10">14dp</dimen>
+    <dimen name="margin_14">17dp</dimen>
+    <dimen name="margin_15">19dp</dimen>
+    <dimen name="margin_18">22dp</dimen>
+
+    <dimen name="margin_30">34dp</dimen>
+    <dimen name="margin_32">35dp</dimen>
+    <dimen name="margin_35">39dp</dimen>
+    <dimen name="margin_45">49dp</dimen>
+    <dimen name="margin_50">54dp</dimen>
+    <dimen name="margin_60">64dp</dimen>
+    <dimen name="margin_80">84dp</dimen>
+
+    <dimen name="margin_13">20dp</dimen>
+
+    <dimen name="margin_110">112dp</dimen>
+    <dimen name="margin_95">98dp</dimen>
+    <dimen name="margin_120">122dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_22">22dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_180">184dp</dimen>
+    <dimen name="margin_240">244dp</dimen>
+    <dimen name="margin_260">264dp</dimen>
+</resources>
